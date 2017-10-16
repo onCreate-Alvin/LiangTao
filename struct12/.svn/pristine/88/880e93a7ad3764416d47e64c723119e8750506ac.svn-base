@@ -1,0 +1,268 @@
+@charset "utf-8";
+.container {
+	width: 1100px;
+	margin: 0 auto;
+	font-family: "微软雅黑";
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.relative {
+	position: relative;
+}
+
+.navigation .item {
+	width: 157px;
+	text-align: center;
+	line-height: 40px;
+	font-size: 13px;
+	font-family: "微软雅黑";
+}
+
+.catalogue {
+	background-color: #F3F3F3;
+	border-top: 2px solid red;
+	font-size: 13px;
+	color: #4C4C4C;
+}
+
+.catalogue li {
+	float: left;
+	list-style: none;
+	margin-right: 10px;
+}
+
+.catalogue ul {
+	margin: 0px 0px;
+	padding: 10px 0px 10px 0px;
+}
+
+.catalogue select {
+	margin-top: -5px;
+}
+
+.goods .right {
+	width: 650px;
+	padding-top: 5px;
+}
+
+.goods .right li {
+	margin-top: 10px;
+}
+
+.font_size16 {
+	font-size: 16px;
+}
+
+.blod {
+	font-weight: bold;
+}
+
+.redcolor {
+	color: #f71942;
+}
+
+.goods .right .activity .text {
+	margin-top: 3px;
+	margin-left: 10px;
+}
+
+.goods .right .guanquan div {
+	margin-top: 3px;
+	margin-right: 10px;
+}
+
+.goods .right .row {
+	margin-top: 5px;
+}
+
+.goods .right .row .row_left {
+	width: 48px;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+
+.marginleft10 {
+	margin-left: 10px;
+}
+
+.goods .right .activity {
+	background-image: url(../img/122.png);
+	padding: 12px 0px 15px 0px;
+}
+
+.font_size14 {
+	font-size: 14px;
+}
+
+.goods .right .row .item .text {
+	width: 40px;
+	text-align: center;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+
+.goods .right .row .item {
+	border: 1px solid #686868;
+	margin-right: 10px;
+}
+
+.textitem {
+	border: 1px solid #686868;
+	margin-right: 10px;
+	padding: 8px;
+}
+
+.add {
+	border: 1px solid #686868;
+	text-align: center;
+	height: 45px;
+}
+
+.add .zuo {
+	width: 35px;
+	padding-top: 16px;
+}
+
+.add .you .bei {
+	border-bottom: 1px solid #686868;
+	border-left: 1px solid #686868;
+	padding-top: 4px;
+	cursor: pointer;
+}
+.add .you {
+	cursor: pointer;
+}
+.addtocart input {
+	background-color: #F51343;
+	padding: 15px 30px;
+	border: 0px;
+	color: #FFFFFF;
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+.aboutphone .left .top {
+	text-align: center;
+	font-size: 15px;
+	color: #000000;
+	padding: 10px 20px 15px 20px;
+	background-color: #DBDBDB;
+	border: 1px solid #686868;
+}
+
+.aboutphone .left .center {
+	padding: 10px 0px 0px 10px;
+	border: 1px solid #686868;
+}
+
+.aboutphone .left .center .item {
+	background-color: #f0f2fe;
+	padding-left: 3px;
+	border-radius: 5px;
+}
+
+.aboutphone .left .center li {
+	float: left;
+	margin-right: 15px;
+	margin-top: 10px;
+}
+
+.aboutphone .left .fenlei {
+	border-left: 1px solid #686868;
+	border-right: 1px solid #686868;
+}
+
+.aboutphone .left .fenlei .sameprice {
+	width: 62px;
+	line-height: 30px;
+	text-align: center;
+}
+
+.aboutphone .center .onep .textline {
+	padding-bottom: 25px;
+}
+
+.aboutphone .center .onep {
+	padding-left: 10px;
+	margin-bottom: 10px;
+}
+
+.paiming {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+}
+
+.aboutphone .left {
+	width: 190px;
+}
+
+.aboutphone .left .sort .pic_phone {
+	position: relative;
+	left: -10px;
+}
+
+.aboutphone .left .sort {
+	margin-bottom: 10px;
+}
+
+.aboutphone .right li {
+	float: left;
+	margin-left: 30px;
+}
+
+.aboutphone .right .line1 li .right_text {
+	margin-left: 13px
+}
+
+.aboutphone .right .line1 {
+	padding-top: 15px;
+}
+
+.aboutphone .right .line2 {
+	margin-top: 45px;
+	margin-left: 60px;
+}
+
+.aboutphone .right .line2 .pic {
+	border: 1px solid #666666;
+	padding: 2px 8px;
+}
+
+.aboutphone .right .line2 .pic img {
+	margin-top: 2px;
+	margin-right: 3px;
+}
+
+.aboutphone .right .line3 {
+	margin-top: 40px;
+	margin-left: 60px;
+}
+
+.aboutphone .right .line3 .textarea {
+	margin-right: 50px;
+}
+
+.aboutphone .right .line4 {
+	text-align: end;
+	color: #0BA6E8;
+}
+
+.aboutphone {
+	margin-top: 30px;
+}
+
+.contentpic {
+	margin-left: 160px;
+}

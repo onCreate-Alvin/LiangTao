@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="struct"
+  id="myeclipse.1503565324476"
+  context-root="/struct"
+  j2ee-spec="5.0"
+  archive="struct.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

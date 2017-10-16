@@ -1,0 +1,36 @@
+@charset "utf-8";
+.container {
+	margin: 0 auto;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.relative {
+	position: relative;
+}
+.border{
+	background-color: gray;
+	width: 100%;
+}
+.item{
+	background-color: white;
+	width: 75px;
+	height: 75px;
+	margin: 5px;
+	cursor: pointer;
+}
+.item span{
+	font-size: 75px;
+	text-align:center;
+	cursor: pointer;
+}
